@@ -1,16 +1,12 @@
-## Hi there 👋
+## 自我介绍 👋
 
-<!--
-**HRui0912/HRui0912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 基本信息
+- 我是广东工业大学22级计算机科学与技术1班的学生
+### 掌握技能
+- 熟练掌握vue、react等前端技术
+### 获奖经历
+- 15届蓝桥杯web应用开发大学组二等奖
+### 兴趣爱好
+- 较擅长打羽毛球 🏸但是上大学后已经像树懒一样只想躺着一般不约了(●'◡'●)
+- 喜欢打游戏游戏，目前在玩第五人格，自我评价是又菜又爱玩，每次骂骂咧咧的退出游戏但是到排位点了还是乖乖打开O(∩_∩)O
+- 最喜欢的还是躺着🛏，就算不睡觉也想躺着，谁懂躺平的快乐~😄
